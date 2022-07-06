@@ -1,3 +1,3 @@
 # A-Search-ALGORITHM
 A* Search algorithm is one of the best and popular technique used in path-finding and graph traversals.
-file:///Z:/Abdo/Programming/C++/UDacity%20C++/2-FOUNDATIONS/Part%2002-Module%2001-Lesson%2003_A%20Search/img/expand-neighbors.png
+![a-star-code-structure](https://user-images.githubusercontent.com/85140058/177539383-6208d93f-7068-45c5-9559-37375876bbe7.png)
